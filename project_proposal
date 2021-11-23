@@ -6,17 +6,17 @@ with your group suggest and research one Use case in Fintech, locate some data i
 Lending (Peer-to-Peer Lending)
 
 **Dataset researched and located**:  
- data sources: Kaggle.com, Bondora Peer to Peer Lending Loan Datae
- (https://www.kaggle.com/skihikingkevin/online-p2p-lending)
+ data sources: Kaggle.com, Lending club data for loan prediction
+ (https://www.kaggle.com/prashdash112/lending-club-loan-two-new-version)
 
 **ML Use Case**:  
-Customer classfication according to their defualt risk.
+Customer classfication according to their defualt risk on loans.
 
 **ML model selected**:  
-random forest
+Support vector machines (SVM)
 
 **Reason**: 
-(what about this model suggests it's a great fit for the task above?)
+The chosen model is good in a classification of 2 classes and gives accurate results in the classification of unbalanced data.
 
 **Group Number # or Name**: Group 1
 
