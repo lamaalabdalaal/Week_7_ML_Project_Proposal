@@ -16,7 +16,7 @@ Customer classfication according to their defualt risk on loans.
 Support vector machines (SVM)
 
 **Reason**: 
-The chosen model is good in a classification of 2 classes and gives accurate results in the classification of unbalanced data.
+Because the model is good in a classification of 2 classes and gives accurate results in unbalanced data classification.
 
 **Group Number # or Name**: Group 1
 
